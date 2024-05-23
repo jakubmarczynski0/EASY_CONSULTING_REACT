@@ -47,7 +47,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Ujjalzaman/Easy-Consulting-react
+   git clone https://github.com/snowball1701/Easy-Consulting-react
    ```
 2. Install NPM packages
    ```sh
@@ -109,6 +109,4 @@ What you get here:
 
 ## Contact
 
-ujjal zaman - [Linkdeind](www.linkedin.com/in/ujjal-zaman)
-
-Project Link: [https://github.com/Ujjalzaman/Easy-Consulting-react](https://github.com/Ujjalzaman/Easy-Consulting-react)
+Project Link: [https://github.com/snowball1701/Easy-Consulting-react](https://github.com/snowball1701/Easy-Consulting-react)

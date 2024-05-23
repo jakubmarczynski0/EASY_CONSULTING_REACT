@@ -10,15 +10,15 @@
   <p align="center">
     A Technonogly agency fullstack website build in react, mui , bootstrap and nodejs 
     <br />
-    <a href="https://github.com/Ujjalzaman/Easy-Consulting-react"><strong>Explore the code here »</strong></a>
+    <a href="https://github.com/snowball1701/Easy-Consulting-react"><strong>Explore the code here »</strong></a>
     <br />
-    <a href="https://github.com/Ujjalzaman/easy-consult-server-express-mongo"><strong>Backend code here »</strong></a>
+    <a href="https://github.com/snowball1701/easy-consult-server-express-mongo"><strong>Backend code here »</strong></a>
     <br />
     <a href="https://wonderful-kowalevski-8c905c.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/Ujjalzaman/Easy-Consulting-react/issues">Report Bug</a>
+    <a href="https://github.com/snowball1701/Easy-Consulting-react/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Ujjalzaman/Easy-Consulting-react/issues">Request Feature</a>
+    <a href="https://github.com/snowball1701/Easy-Consulting-react/issues">Request Feature</a>
   </p>
 </div>
 
